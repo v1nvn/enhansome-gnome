@@ -1,4 +1,4 @@
-# Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 456,116 | 🐛 64 | 📅 2026-04-02 with stars
+# Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 456,408 | 🐛 65 | 📅 2026-04-02 with stars
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
 
@@ -144,8 +144,8 @@
 ### System and Customization
 
 * [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,531 | 🐛 20 | 🌐 CSS | 📅 2026-02-22 skin installer.
-* [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) ⭐ 488 | 🐛 11 | 🌐 Shell | 📅 2024-11-01 - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
-* [Luminance](https://github.com/sidevesh/Luminance) ⭐ 163 | 🐛 3 | 🌐 C | 📅 2026-04-03 - Simple application to control brightness of displays (including external) supporting DDC/CI.
+* [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) ⭐ 489 | 🐛 11 | 🌐 Shell | 📅 2024-11-01 - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+* [Luminance](https://github.com/sidevesh/Luminance) ⭐ 164 | 🐛 3 | 🌐 C | 📅 2026-04-03 - Simple application to control brightness of displays (including external) supporting DDC/CI.
 * [Pika Backup](https://apps.gnome.org/PikaBackup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
 * [Déjà Dup Backups](https://apps.gnome.org/DejaDup) - Simple backups tool. ![GNOME Circle][GNOME Circle]
 * [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) - Graphical interface for advanced GNOME settings.
@@ -171,7 +171,7 @@
 * [Junction](https://apps.gnome.org/Junction) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 * [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 * [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - Elegantly record your screen.
-* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 4,727 | 🐛 98 | 🌐 Rust | 📅 2026-04-09 - Mouse and keyboard sharing software (software KVM switch).
+* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 4,733 | 🐛 98 | 🌐 Rust | 📅 2026-04-09 - Mouse and keyboard sharing software (software KVM switch).
 * [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 * [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
 * [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) -  Simple utility to ping websites.
@@ -272,14 +272,14 @@
 
 #### Upstream Style
 
-* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 996 | 🐛 72 | 🌐 Meson | 📅 2026-04-15 - An Adwaita-style icon theme for Gnome Shell.
+* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 997 | 🐛 73 | 🌐 Meson | 📅 2026-04-15 - An Adwaita-style icon theme for Gnome Shell.
 * [Pop!](https://github.com/pop-os/icon-theme) ⭐ 214 | 🐛 15 | 🌐 Python | 📅 2024-10-01 - Official icon theme of Pop!\_OS by System76.
 * [GNOME++](https://github.com/Bonandry/gnome-plus) ⭐ 174 | 🐛 9 | 🌐 Shell | 📅 2023-03-03 - Third-party application icons compatible with GNOME's current guidelines.
 
 #### Material Icons
 
 * [Paper](https://snwh.org/paper) - Material icon theme.
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,770 | 🐛 541 | 🌐 Shell | 📅 2026-04-02 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,773 | 🐛 541 | 🌐 Shell | 📅 2026-04-02 - Material icon theme, initially based on Paper.
 
 #### Flat Icons
 
@@ -293,12 +293,12 @@
 
 #### Skeumorphic Icons
 
-* [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) ⭐ 297 | 🐛 27 | 🌐 C | 📅 2026-01-02 - Desktop-agnostic version of the icons of elementary OS.
+* [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) ⭐ 297 | 🐛 28 | 🌐 C | 📅 2026-01-02 - Desktop-agnostic version of the icons of elementary OS.
 
 ### Cursors
 
-* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 3,546 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
-* [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,195 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 3,550 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
+* [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,197 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 * [ComixCursors](https://www.gnome-look.org/p/999996) - X11 mouse theme with a comics feeling.
 
 ### Themes for non-GTK apps
@@ -339,7 +339,7 @@
 ### Other lists
 
 * [Are we libadwaita yet](https://arewelibadwaitayet.com/) - List of libadwaita-powered apps
-* [Awesome-GTK](https://github.com/valpackett/awesome-gtk) ⭐ 1,216 | 🐛 3 | 🌐 Python | 📅 2026-04-13 - Collections of awesome native open-source GTK (4 and 3) applications.
+* [Awesome-GTK](https://github.com/valpackett/awesome-gtk) ⭐ 1,216 | 🐛 4 | 🌐 Python | 📅 2026-04-13 - Collections of awesome native open-source GTK (4 and 3) applications.
 
 ## Developer Resources
 
