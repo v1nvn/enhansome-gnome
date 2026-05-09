@@ -248,7 +248,7 @@
             "last_commit": "2024-06-18T04:05:14Z",
             "owner": "ful1e5",
             "repo": "Bibata_Cursor",
-            "stars": 3604
+            "stars": 3610
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2022-06-05T13:11:37Z",
             "owner": "keeferrourke",
             "repo": "capitaine-cursors",
-            "stars": 1202
+            "stars": 1203
           }
         }
       ],
@@ -316,10 +316,10 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-04-14T03:15:06Z",
+            "last_commit": "2026-05-08T19:37:01Z",
             "owner": "rafaelmardojai",
             "repo": "firefox-gnome-theme",
-            "stars": 3867
+            "stars": 3866
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:53:41.853Z",
+    "last_updated": "2026-05-09T05:22:07.434Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "source_repository": "v1nvn/enhansome-gnome",
     "source_repository_description": null,
