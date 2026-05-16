@@ -104,7 +104,7 @@
             "last_commit": "2026-05-01T19:45:56Z",
             "owner": "sidevesh",
             "repo": "Luminance",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2024-06-18T04:05:14Z",
             "owner": "ful1e5",
             "repo": "Bibata_Cursor",
-            "stars": 3629
+            "stars": 3631
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-04-03T15:01:33Z",
             "owner": "rafaelmardojai",
             "repo": "thunderbird-gnome-theme",
-            "stars": 413
+            "stars": 411
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:55:22.899Z",
+    "last_updated": "2026-05-16T05:27:38.760Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "source_repository": "v1nvn/enhansome-gnome",
     "source_repository_description": null,
