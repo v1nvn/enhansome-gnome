@@ -38,7 +38,7 @@
             "last_commit": "2024-11-01T03:50:32Z",
             "owner": "manishprivet",
             "repo": "dynamic-gnome-wallpapers",
-            "stars": 495
+            "stars": 496
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2021-06-03T17:56:11Z",
             "owner": "madmaxms",
             "repo": "iconpack-obsidian",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2024-06-18T04:05:14Z",
             "owner": "ful1e5",
             "repo": "Bibata_Cursor",
-            "stars": 3644
+            "stars": 3650
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-21T06:10:38.508Z",
+    "last_updated": "2026-05-22T06:07:04.426Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "source_repository": "v1nvn/enhansome-gnome",
     "source_repository_description": null,
