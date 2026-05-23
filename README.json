@@ -211,7 +211,7 @@
             "last_commit": "2026-02-21T20:04:32Z",
             "owner": "numixproject",
             "repo": "numix-icon-theme-circle",
-            "stars": 930
+            "stars": 931
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2024-06-18T04:05:14Z",
             "owner": "ful1e5",
             "repo": "Bibata_Cursor",
-            "stars": 3650
+            "stars": 3652
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-05-02T08:41:40Z",
             "owner": "ricewind012",
             "repo": "discord-gnome-theme",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-04-03T15:01:33Z",
             "owner": "rafaelmardojai",
             "repo": "thunderbird-gnome-theme",
-            "stars": 411
+            "stars": 412
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-22T06:07:04.426Z",
+    "last_updated": "2026-05-23T05:39:47.734Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "source_repository": "v1nvn/enhansome-gnome",
     "source_repository_description": null,
