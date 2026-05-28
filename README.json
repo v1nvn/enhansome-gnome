@@ -153,7 +153,7 @@
             "last_commit": "2026-04-28T08:48:45Z",
             "owner": "somepaulo",
             "repo": "MoreWaita",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2024-06-18T04:05:14Z",
             "owner": "ful1e5",
             "repo": "Bibata_Cursor",
-            "stars": 3659
+            "stars": 3665
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2026-05-25T00:59:07Z",
             "owner": "rafaelmardojai",
             "repo": "firefox-gnome-theme",
-            "stars": 3871
+            "stars": 3870
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-04-03T15:01:33Z",
             "owner": "rafaelmardojai",
             "repo": "thunderbird-gnome-theme",
-            "stars": 412
+            "stars": 411
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-27T06:21:18.096Z",
+    "last_updated": "2026-05-28T06:12:58.863Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "source_repository": "v1nvn/enhansome-gnome",
     "source_repository_description": null,
