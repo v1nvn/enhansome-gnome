@@ -38,7 +38,7 @@
             "last_commit": "2024-11-01T03:50:32Z",
             "owner": "manishprivet",
             "repo": "dynamic-gnome-wallpapers",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2024-10-01T16:46:38Z",
             "owner": "pop-os",
             "repo": "icon-theme",
-            "stars": 217
+            "stars": 216
           }
         }
       ],
@@ -211,7 +211,7 @@
             "last_commit": "2026-02-21T20:04:32Z",
             "owner": "numixproject",
             "repo": "numix-icon-theme-circle",
-            "stars": 932
+            "stars": 931
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2024-06-18T04:05:14Z",
             "owner": "ful1e5",
             "repo": "Bibata_Cursor",
-            "stars": 3684
+            "stars": 3686
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-03T06:52:54.069Z",
+    "last_updated": "2026-06-04T06:42:51.864Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "source_repository": "v1nvn/enhansome-gnome",
     "source_repository_description": null,

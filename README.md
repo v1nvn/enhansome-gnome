@@ -1,4 +1,4 @@
-# Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 472,457 | 🐛 81 | 📅 2026-06-02 with stars
+# Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 472,735 | 🐛 82 | 📅 2026-06-02 with stars
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
 
@@ -144,7 +144,7 @@
 ### System and Customization
 
 * [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,550 | 🐛 22 | 🌐 CSS | 📅 2026-05-13 skin installer.
-* [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) ⭐ 498 | 🐛 11 | 🌐 Shell | 📅 2024-11-01 - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+* [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) ⭐ 499 | 🐛 11 | 🌐 Shell | 📅 2024-11-01 - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 * [Luminance](https://github.com/sidevesh/Luminance) ⭐ 167 | 🐛 5 | 🌐 C | 📅 2026-05-01 - Simple application to control brightness of displays (including external) supporting DDC/CI.
 * [Pika Backup](https://apps.gnome.org/PikaBackup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
 * [Déjà Dup Backups](https://apps.gnome.org/DejaDup) - Simple backups tool. ![GNOME Circle][GNOME Circle]
@@ -171,7 +171,7 @@
 * [Junction](https://apps.gnome.org/Junction) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 * [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 * [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - Elegantly record your screen.
-* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 4,845 | 🐛 119 | 🌐 Rust | 📅 2026-05-22 - Mouse and keyboard sharing software (software KVM switch).
+* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 4,846 | 🐛 119 | 🌐 Rust | 📅 2026-05-22 - Mouse and keyboard sharing software (software KVM switch).
 * [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 * [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
 * [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) -  Simple utility to ping websites.
@@ -273,13 +273,13 @@
 #### Upstream Style
 
 * [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,039 | 🐛 81 | 🌐 Meson | 📅 2026-04-28 - An Adwaita-style icon theme for Gnome Shell.
-* [Pop!](https://github.com/pop-os/icon-theme) ⭐ 217 | 🐛 15 | 🌐 Python | 📅 2024-10-01 - Official icon theme of Pop!\_OS by System76.
+* [Pop!](https://github.com/pop-os/icon-theme) ⭐ 216 | 🐛 15 | 🌐 Python | 📅 2024-10-01 - Official icon theme of Pop!\_OS by System76.
 * [GNOME++](https://github.com/Bonandry/gnome-plus) ⭐ 174 | 🐛 9 | 🌐 Shell | 📅 2023-03-03 - Third-party application icons compatible with GNOME's current guidelines.
 
 #### Material Icons
 
 * [Paper](https://snwh.org/paper) - Material icon theme.
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,857 | 🐛 556 | 🌐 Shell | 📅 2026-05-30 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 7,859 | 🐛 557 | 🌐 Shell | 📅 2026-05-30 - Material icon theme, initially based on Paper.
 
 #### Flat Icons
 
@@ -287,7 +287,7 @@
 
 #### Homogeneous Icons
 
-* [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) ⭐ 932 | 🐛 3 | 📅 2026-02-21 - Flat rounded icon theme.
+* [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) ⭐ 931 | 🐛 3 | 📅 2026-02-21 - Flat rounded icon theme.
 * [Obsidian](https://github.com/madmaxms/iconpack-obsidian) ⭐ 229 | 🐛 26 | 📅 2021-06-03 - Continuation of the famous Faenza theme.
 * [Numix Square](https://github.com/numixproject/numix-icon-theme-square) ⭐ 176 | 🐛 1 | 📅 2026-02-21 - Flat square icon theme.
 
@@ -297,7 +297,7 @@
 
 ### Cursors
 
-* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 3,684 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
+* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 3,686 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
 * [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,206 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 * [ComixCursors](https://www.gnome-look.org/p/999996) - X11 mouse theme with a comics feeling.
 
