@@ -104,7 +104,7 @@
             "last_commit": "2026-05-01T19:45:56Z",
             "owner": "sidevesh",
             "repo": "Luminance",
-            "stars": 170
+            "stars": 171
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2024-06-18T04:05:14Z",
             "owner": "ful1e5",
             "repo": "Bibata_Cursor",
-            "stars": 3698
+            "stars": 3699
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2022-06-05T13:11:37Z",
             "owner": "keeferrourke",
             "repo": "capitaine-cursors",
-            "stars": 1208
+            "stars": 1210
           }
         }
       ],
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-10T06:24:06.193Z",
+    "last_updated": "2026-06-11T06:49:21.651Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "source_repository": "v1nvn/enhansome-gnome",
     "source_repository_description": null,
